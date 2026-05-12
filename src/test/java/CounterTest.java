@@ -11,7 +11,7 @@ public class CounterTest {
 		Counter testCounter = new Counter();
 		
 		for(int i = 0; i <10; i++) {
-			testCounter.incrementtttt();
+			testCounter.increment();
 		}
 		
 		testCounter.reset();
